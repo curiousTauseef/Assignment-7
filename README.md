@@ -1,7 +1,9 @@
 # Assignment 7, CodePath Alumni Professional Interview Prep Course, November 2017 - January 2018
 Well, this was a real wake-up call. :-( Are people really expected to be able to complete all the requested functionality "within a time window of 60-90 minutes"? I guess I need to put in a lot of practice in banging out prototypes as quickly as possible.
 
-Here's a walkthrough of the app, such as it is: [https://github.com/tachyonlabs/Assignment-7/blob/master/device-2018-02-11-170458.mp4](https://github.com/tachyonlabs/Assignment-7/blob/master/device-2018-02-11-170458.mp4)
+Here's a walkthrough of the app, such as it is:
+
+<img src='https://github.com/tachyonlabs/Assignment-7/blob/master/Assignment%207.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 To run this app, you will need to replace "your API key here" in the following line of MainActivity.java --
