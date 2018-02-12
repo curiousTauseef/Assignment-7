@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.tachyonlabs.assignment7movielistings.DetailActivity">
+
+    <TextView
+            android:paddingTop="30dp"
+            android:paddingLeft="36dp"
+            android:paddingRight="36dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="46dp"
+            android:text="Sorry, not fast enough to get everything done in two hours :-(!!! I guess I need to put in a lot of practice in banging out prototypes as quickly as possible."/>
+
+</android.support.constraint.ConstraintLayout>
